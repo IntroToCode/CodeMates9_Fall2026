@@ -2,7 +2,7 @@
 
 - Breakfast: 
 - Lunch: 
-- Dinner: 
+- Dinner: [Steak Frites](dinner/readme.md) 
 
 _Notes_
 __
