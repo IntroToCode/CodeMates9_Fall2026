@@ -1,6 +1,6 @@
 # Recipe Index
 
-- Breakfast: Medialunas de Manteca (Argentine Butter Croissants)
+- Breakfast: [Medialunas de Manteca (Argentine Butter Croissants)](breakfast/readme.md)
 - Lunch: 
 - Dinner: 
 
