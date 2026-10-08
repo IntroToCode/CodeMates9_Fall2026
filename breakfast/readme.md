@@ -49,4 +49,4 @@ Small, sweet, syrup-glazed Argentine croissants, the classic partner to café co
 - Shaped, unproofed medialunas freeze well: thaw overnight in the fridge, then proof and bake.
 - For medialunas de grasa, swap the laminating butter for beef tallow, cut the sugar in the dough to about 20 g, and skip the syrup.
 
-### Author(s):
+### Author(s): Andres Zocchi
