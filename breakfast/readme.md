@@ -2,7 +2,7 @@
 
 ## Description
 
-Small, sweet, syrup-glazed Argentine croissants, the classic partner to café con leche or mate.
+Small, sweet, syrup-glazed Argentine croissants, the classic partner to café con leche or mate. The medialuna descends from the kipferl, a crescent-shaped Austrian bread with references dating back to at least the 13th century (the popular tale tying it to the 1683 Ottoman siege of Vienna is considered legend). Around 1838 to 1839, August Zang's Viennese bakery in Paris popularized the kipferl, and French bakers turned it into the butter-laminated croissant. European immigrant bakers brought the pastry to Argentina in the late 19th and early 20th centuries, where it became smaller, softer, and sweeter, often finished with a shiny syrup glaze, and split into two styles: manteca (butter) and grasa (tallow). Through the 20th century it became a breakfast and merienda staple in homes, bakeries, and cafés, giving rise to the classic order of café con leche with medialunas. 
 
 ## Stats
 
