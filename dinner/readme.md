@@ -39,6 +39,12 @@ Steak frites is a classic French bistro dish: a pan-seared steak served with cri
 8. While the steaks rest, raise the frying oil to 375°F. Fry the potatoes a second time, in batches, for 2 to 3 minutes until golden and crispy. Drain and salt them right away.
 9. Slice the steaks against the grain, top each with a spoonful of herb butter, and serve with a pile of fries.
 
+### Beverage Pairing:
+
+**Bordeaux (red wine)**: a classic French red and a traditional match for steak frites. It's usually a Cabernet Sauvignon and Merlot blend, and its tannins cut through the richness of the seared steak and herb butter.
+
+*Non-alcoholic option:* sparkling water with a squeeze of lemon.
+
 ### Notes:
 
 - Oven fries option: toss the dried potato sticks with 2 tbsp oil and salt, then bake at 425°F for 30 to 35 minutes, flipping halfway.
