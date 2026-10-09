@@ -31,4 +31,4 @@ Short description of the dish.
 
 - Add note here.
 
-### Author(s): Andres Zocchi
+### Author(s): 
