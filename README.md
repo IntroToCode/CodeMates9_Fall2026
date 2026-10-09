@@ -1,7 +1,7 @@
 # Recipe Index
 
 - Breakfast: 
-- Lunch: [Chicken Pad Thai](lunch/readme.md)
+- Lunch:
 - Dinner: [Steak Frites](dinner/readme.md) 
 
 _Notes_
