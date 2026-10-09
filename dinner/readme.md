@@ -39,6 +39,15 @@ Steak frites is a classic French bistro dish: a pan-seared steak served with cri
 8. While the steaks rest, raise the frying oil to 375°F. Fry the potatoes a second time, in batches, for 2 to 3 minutes until golden and crispy. Drain and salt them right away.
 9. Slice the steaks against the grain, top each with a spoonful of herb butter, and serve with a pile of fries.
 
+### Beverage Pairing:
+**Pomegranate Rosemary Spritz** (non-alcoholic)
+- 3 oz 100% pomegranate juice, chilled
+- ½ tbsp fresh lime juice
+- 4 oz soda water, chilled
+- 2 sprigs fresh rosemary
+- Ice
+
+Lightly bruise one rosemary sprig and drop it into a glass with the pomegranate and lime juice. Let it sit for 2 minutes, then fill with ice, top with soda water, and garnish with the second sprig. The tart pomegranate cuts the richness of the steak, and the rosemary picks up the herb butter.
 ### Notes:
 
 - Oven fries option: toss the dried potato sticks with 2 tbsp oil and salt, then bake at 425°F for 30 to 35 minutes, flipping halfway.
