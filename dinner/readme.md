@@ -13,6 +13,7 @@ Steak frites is a classic French bistro dish: a pan-seared steak served with cri
 | Total Time | 1 hour 10 minutes |
 | Servings | 4 |
 | Difficulty | Medium |
+| Spice Level | None |
 | Tags | dinner, French, group-friendly, meat |
 
 ### Ingredients:
