@@ -8,22 +8,22 @@ Steak frites is a classic French bistro dish: a pan-seared steak served with cri
 
 | Field | Info |
 |-------|------|
-| Prep Time | 30 minutes |
-| Cook Time | 40 minutes |
-| Total Time | 1 hour 10 minutes |
-| Servings | 4 |
+| Prep Time | 40 minutes |
+| Cook Time | 60 minutes |
+| Total Time | 1 hour 40 minutes |
+| Servings | 8 |
 | Difficulty | Medium |
 | Spice Level | None |
 | Tags | dinner, French, group-friendly, meat |
 
 ### Ingredients:
-- [ ] 4 steaks (sirloin, ribeye, or hanger), about 8 oz each and 1 inch thick
-- [ ] 2 lbs russet potatoes
+- [ ] 8 steaks (sirloin, ribeye, or hanger), about 8 oz each and 1 inch thick
+- [ ] 4 lbs russet potatoes
 - [ ] About 6 cups neutral oil for frying (canola or peanut), plus 1 tbsp for the pan
-- [ ] 6 tbsp unsalted butter, divided (4 tbsp softened)
-- [ ] 3 garlic cloves (1 minced, 2 smashed)
-- [ ] 2 tbsp fresh parsley, finely chopped
-- [ ] 3 sprigs fresh thyme
+- [ ] 12 tbsp unsalted butter, divided (4 tbsp softened)
+- [ ] 6 garlic cloves (1 minced, 2 smashed)
+- [ ] 4 tbsp fresh parsley, finely chopped
+- [ ] 6 sprigs fresh thyme
 - [ ] Kosher salt
 - [ ] Black pepper
 - [ ] Optional: Dijon mustard or mayonnaise for dipping
@@ -51,6 +51,7 @@ Steak frites is a classic French bistro dish: a pan-seared steak served with cri
 - Oven fries option: toss the dried potato sticks with 2 tbsp oil and salt, then bake at 425°F for 30 to 35 minutes, flipping halfway.
 - Doneness guide: 130°F medium-rare, 140°F medium, 150°F medium-well.
 - Never leave hot oil unattended, and keep a lid nearby in case of a flare-up.
+- Double the oil and use two sheet pans
 
 ### Author(s):
 
