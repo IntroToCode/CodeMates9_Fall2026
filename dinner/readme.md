@@ -20,9 +20,9 @@ Steak frites is a classic French bistro dish: a pan-seared steak served with cri
 - [ ] 8 steaks (sirloin, ribeye, or hanger), about 8 oz each and 1 inch thick
 - [ ] 4 lbs russet potatoes
 - [ ] About 6 cups neutral oil for frying (canola or peanut), plus 2 tbsp for the pan
-- [ ] 12 tbsp unsalted butter, divided (4 tbsp softened)
+- [ ] 12 tbsp unsalted butter, divided (8 tbsp softened)
 - [ ] 6 garlic cloves (2 minced, 4 smashed)
-- [ ] 8 tbsp fresh parsley, finely chopped
+- [ ] 4 tbsp fresh parsley, finely chopped
 - [ ] 6 sprigs fresh thyme
 - [ ] Kosher salt
 - [ ] Black pepper
