@@ -15,6 +15,7 @@ A thin, crispy sourdough pizza topped with mozzarella, feta, and fresh vegetable
 | Total Time | 45 minutes |
 | Servings | 2 (one 12-inch pizza) |
 | Difficulty | Medium |
+| Spice Level | 🌶️ |
 | Tags | vegetarian, pizza, Berkeley favorite |
 
 ### Ingredients:

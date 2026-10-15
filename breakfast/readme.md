@@ -13,6 +13,7 @@ Small, sweet, syrup-glazed Argentine croissants, the classic partner to café co
 | Total Time | about 4 hours 15 minutes |
 | Servings | about 24 medialunas |
 | Difficulty | Hard |
+| Spice Level | None |
 | Tags | breakfast, Argentine, pastry, laminated dough, make-ahead, freezer-friendly |
 
 ### Ingredients:
